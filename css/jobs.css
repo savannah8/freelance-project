@@ -1,0 +1,19 @@
+#text1{
+    color: grey;
+}
+#text2{
+    position: relative;
+    float: right;
+    color: grey;
+    
+}
+.btn1 {
+    background-color:#13B5FA;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    border-radius: 25px;
+    float: right;
+  }

@@ -1,5 +1,5 @@
 body {
-	background: #1690A7;
+	
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -71,7 +71,7 @@ button:hover{
 
 h1 {
 	text-align: center;
-	color: #fff;
+	
 }
 
 .ca {
